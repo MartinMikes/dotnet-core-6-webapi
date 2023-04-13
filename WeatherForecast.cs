@@ -1,4 +1,4 @@
-namespace dotnet_core_6_webapi;
+namespace DotNetCore6WebApi;
 
 public class WeatherForecast
 {
